@@ -1,0 +1,64 @@
+[{
+    "date": "2019-10-01",
+    "min_temp": 0.2,
+    "max_temp": 18.7,
+    "min_humidity": 0.08,
+    "max_humidity": 0.18
+},
+{
+    "date": "2019-10-02",
+    "min_temp": 1.2,
+    "max_temp": 11.7,
+    "min_humidity": 0.18,
+    "max_humidity": 0.28
+},
+{
+    "date": "2019-10-03",
+    "min_temp": -2.2,
+    "max_temp": 5.7,
+    "min_humidity": 0.08,
+    "max_humidity": 0.48
+},
+{
+    "date": "2019-10-04",
+    "min_temp": 5.2,
+    "max_temp": 14.7,
+    "min_humidity": 0.18,
+    "max_humidity": 0.98
+},
+{
+    "date": "2019-10-05",
+    "min_temp": 0.2,
+    "max_temp": 22.7,
+    "min_humidity": 0.43,
+    "max_humidity": 0.78
+},
+{
+    "date": "2019-10-06",
+    "min_temp": -10.2,
+    "max_temp": 19.7,
+    "min_humidity": 0.08,
+    "max_humidity": 0.48
+},
+{
+    "date": "2019-10-07",
+    "min_temp": 10.2,
+    "max_temp": 12.7,
+    "min_humidity": 0.08,
+    "max_humidity": 0.58
+},
+{
+    "date": "2019-10-08",
+    "min_temp": 7.2,
+    "max_temp": 15.7,
+    "min_humidity": 0.28,
+    "max_humidity": 0.88
+},
+{
+    "date": "2019-10-09",
+    "min_temp": 8.2,
+    "max_temp": 19.7,
+    "min_humidity": 0.78,
+    "max_humidity": 0.98
+}
+]
